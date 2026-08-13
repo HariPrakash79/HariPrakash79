@@ -1,15 +1,15 @@
 # Hi there, I'm Hari Karthikeyan  
-### Data Scientist | ML Engineer | Data Systems Builder  
+### AI Engineer | Data Scientist | ML Engineer | Data Systems Builder  
 
-🚀 Passionate about building scalable machine learning systems that move from raw data to production impact.  
-📊 Focused on distributed analytics, deep learning, and statistical modeling.  
+🚀 Passionate about building scalable AI and ML systems that move from raw data to production impact.  
+📊 Focused on Agentic AI, distributed analytics, deep learning, and statistical modeling.  
 🎓 MS in Data Science | University of Rochester  
 
 ---
 
 ## 💡 About Me  
 
-I’m a Data Scientist working at the intersection of machine learning, distributed systems, and production engineering.  
+I’m a AIML working at the intersection of machine learning, distributed systems, and production engineering.  
 
 I build end-to-end systems from modeling and experimentation to deployment and monitoring, with a strong emphasis on statistical rigor and scalability.  
 
@@ -18,7 +18,7 @@ My work spans distributed Spark pipelines on AWS, deep learning systems for manu
 ---
 
 ## Areas of Expertise  
-
+- AI (RAG Pipelines, Agentic AI, Langchain, Langgraph)
 - Machine Learning (scikit-learn, TensorFlow, PyTorch)  
 - Bayesian Modeling (PyMC), Time-Series Forecasting  
 - Spark (PySpark, Structured Streaming)  
